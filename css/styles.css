@@ -11608,7 +11608,7 @@ body {
   }
 }
 .projects-section .featured-text {
-  padding: 1rem;
+  padding: 1rem 0.5rem;
 }
 @media (min-width: 992px) {
   .projects-section .featured-text {
