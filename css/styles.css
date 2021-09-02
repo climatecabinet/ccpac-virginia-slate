@@ -7931,6 +7931,8 @@ textarea.form-control-lg {
 .text-white {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+  background-color: rgba(0,0,0,0.8);
+  padding: 0.5em;
 }
 
 .text-body {
