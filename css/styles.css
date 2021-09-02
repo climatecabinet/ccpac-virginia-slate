@@ -239,7 +239,8 @@ sup {
 }
 
 a {
-  color: #64a19d;
+/*   color: #64a19d; */
+  color: #c36c27;
   text-decoration: underline;
 }
 a:hover {
@@ -3580,7 +3581,8 @@ textarea.form-control-lg {
 
 .btn-link {
   font-weight: 400;
-  color: #64a19d;
+/*   color: #64a19d; */
+  color: #c36c27;
   text-decoration: underline;
 }
 .btn-link:hover {
@@ -11529,9 +11531,11 @@ body {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+/*     color: #64a19d; */
+    color: #c36c27;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+/*     border-bottom: 0.25rem solid #64a19d; */
+    border-bottom: 0.25rem solid #c36c27;
   }
 }
 
